@@ -1,5 +1,7 @@
 ## Hi there! I'm Cindy Chen 👋
 
+
+
 <!--
 **liangyu0516/liangyu0516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -51,4 +53,6 @@ Here are some ideas to get you started:
 ![JIRA](https://img.shields.io/badge/jira-%230052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![LINUX](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
+---
 
+![PROFILE VIEWS](https://komarev.com/ghpvc/?username=liangyu0516&color=brightgreen)
