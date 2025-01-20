@@ -19,7 +19,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+## 😎 About Me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+- 🔭 I’m currently working on integrating the Google Drive API within a Docker container.
+- 🌱 I’m currently learning Java Spring Boot and Jenkins.
+- 👯 I’m looking to collaborate on open-source projects.
+- 💬 Ask me about backend development and cloud applications.
+- 📫 How to reach me: cy9815526@gmail.com
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: I can hardly ever win at rock-paper-scissors. ✊🖐️✌️
+
+## 💻 Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 ![PYTHON](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -45,6 +54,7 @@ Here are some ideas to get you started:
 ![AMAZON CLOUDWATCH](https://img.shields.io/badge/amazon%20cloudwatch-%23FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 ![ALIBABA CLOUD](https://img.shields.io/badge/alibaba%20cloud-%23FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
 ![HEROKU](https://img.shields.io/badge/heroku-%23430098?style=for-the-badge&logo=heroku&logoColor=white)
+![GRAPHQL](https://img.shields.io/badge/graphql-%23E10098?style=for-the-badge&logo=graphql)
 ![MYSQL](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![POSTGRESQL](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -53,6 +63,7 @@ Here are some ideas to get you started:
 ![NGINX](https://img.shields.io/badge/nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![SELENIUM](https://img.shields.io/badge/selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![JIRA](https://img.shields.io/badge/jira-%230052CC?style=for-the-badge&logo=jira&logoColor=white)
+![POSTMAN](https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![LINUX](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
