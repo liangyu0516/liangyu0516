@@ -54,6 +54,8 @@ Here are some ideas to get you started:
 ![AMAZON CLOUDWATCH](https://img.shields.io/badge/amazon%20cloudwatch-%23FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 ![ALIBABA CLOUD](https://img.shields.io/badge/alibaba%20cloud-%23FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
 ![HEROKU](https://img.shields.io/badge/heroku-%23430098?style=for-the-badge&logo=heroku&logoColor=white)
+![RAILWAY](https://img.shields.io/badge/railway-%230B0D0E?style=for-the-badge&logo=railway)
+![NETLIFY](https://img.shields.io/badge/netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![GRAPHQL](https://img.shields.io/badge/graphql-%23E10098?style=for-the-badge&logo=graphql)
 ![MYSQL](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![POSTGRESQL](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
