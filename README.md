@@ -1,7 +1,7 @@
 <!-- ## Hi there! I'm Cindy Chen 👋 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=36&pause=1000&color=011F06&center=true&vCenter=true&random=true&width=500&lines=Hi+there!+I'm+Cindy+Chen+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=36&pause=1000&color=F7F7F7&background=011F06&center=true&vCenter=true&random=true&width=600&lines=Hi+there!+I'm+Cindy+Chen+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 <!--
