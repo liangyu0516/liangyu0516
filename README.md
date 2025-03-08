@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## 😎 About Me <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBhNXQzMDBvMW9lc2U2ejhuaXY2cjN1eGI3Z3RlZHNxcXI5ZmV6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FxAYkQqdw63hC/giphy.gif" width = 32px>
 - 🔭 I’m currently working on integrating the Google Drive API within a Docker container.
-- 🌱 I’m currently learning Java Spring Boot and Jenkins.
+- 🌱 I’m currently learning Golang to build a CLI tool.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about backend development and cloud applications.
 - 📫 How to reach me: cy9815526@gmail.com
